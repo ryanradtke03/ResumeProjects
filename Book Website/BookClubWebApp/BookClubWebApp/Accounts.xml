@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Accounts>
+  <!--staff staff1234-->
+  <Account Role="Staff">
+    <Username>6CCB4B7C39A6E77F76ECFA935A855C6C46AD5611</Username>
+    <Password>E51157A25105C5DB6DEB0FCC52482ECB5DED2173</Password>
+  </Account>
+  <!--admin admin1234-->
+  <Account Role="Admin">
+    <Username>D033E22AE348AEB5660FC2140AEC35850C4DA997</Username>
+    <Password>7B902E6FF1DB9F560443F2048974FD7D386975B0</Password>
+  </Account>
+  <Account Role="Staff">
+    <Username>E70FD12124EB99AAE7CA0F0A84A8B1B7A369BD49</Username>
+    <Password>E70FD12124EB99AAE7CA0F0A84A8B1B7A369BD49</Password>
+  </Account>
+  <Account Role="Member">
+    <Username>EA3CD978650417470535F3A4725B6B5042A6AB59</Username>
+    <Password>EA3CD978650417470535F3A4725B6B5042A6AB59</Password>
+  </Account>
+</Accounts>
